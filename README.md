@@ -1,2 +1,2 @@
-# josywp
+# arya
 theme wordpress
